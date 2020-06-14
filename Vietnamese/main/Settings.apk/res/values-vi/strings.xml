@@ -10222,4 +10222,5 @@ Nếu bạn không đồng ý cấp các quyền đó, bạn sẽ không thể s
 	<string name="charge_animation_style_title">Hiệu ứng sạc</string>
 	<string name="mi_pay_summary_without_nfc">Thanh toán Mi</string>
 	<string name="error_apn_not_allowed">"APN này không được cho phép trên thiết bị này. Thử cái khác."</string>
+	<string name="double_tap_lock_title">Nhấp đôi để tắt màn hình</string>
 </resources>
